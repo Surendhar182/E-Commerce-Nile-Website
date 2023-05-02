@@ -51,6 +51,8 @@ Install Python Latest Version [ https://www.python.org/downloads/ ]
 
 Install Pip (Package Manager) [ https://pip.pypa.io/en/stable/installing/ ]
 
+Install XAMPP Server[ https://www.apachefriends.org/download.html ]
+
 Alternative to Pip is Homebrew
 
 Installation
