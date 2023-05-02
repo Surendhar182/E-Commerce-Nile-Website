@@ -82,8 +82,8 @@ Then, Enter the project
   
 6.migrate the Database in CM
    
-    $ python manage.py migrate  
+    $  python manage.py migrate  
 
-6.Now Run Server
+7.Now Run Server
 
-    $ python manage.py runserver
+    $  python manage.py runserver
