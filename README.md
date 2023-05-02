@@ -75,6 +75,14 @@ Then, Enter the project
 4.Install Requirements from 'requirements.txt'
 
     $  pip install -r requirements.txt
+ 
+5.Install mysqlclient in CM
+ 
+    $  pip install mysqlclient
+  
+6.migrate the Database in CM
+   
+    $ python manage.py migrate  
 
 6.Now Run Server
 
