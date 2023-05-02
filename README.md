@@ -1,9 +1,9 @@
 # E-Commerce-Nile-Website
-E-Commerce-Nile-Website
+Django Simple Multi-Vendor E-Commerce-Nile Website
 
 # ABSTRACT
 
-if you like this project then ADD a STAR ⭐️ to this project 👆
+## if you like this project then ADD a STAR ⭐️ to this project 👆
 
 The Multi-Vendor E-commerce Website Project using Python Django Framework and MySQL is a comprehensive web-based application designed to provide a platform for online marketplaces. 
 
@@ -17,7 +17,7 @@ In summary, the Multi-Vendor E-commerce Website Project using Python Django Fram
  
 # Features of this Project
 
-# A. Admin Users Can
+### A. Admin Users Can
 
 1.Manage Category (Add, Update, Filter and Delete) 
 
@@ -27,7 +27,7 @@ In summary, the Multi-Vendor E-commerce Website Project using Python Django Fram
 
 4.Manage Orders (View and Process)
 
-# B. Vendors Can
+### B. Vendors Can
 
 1.Add Products
 
@@ -35,7 +35,7 @@ In summary, the Multi-Vendor E-commerce Website Project using Python Django Fram
 
 3.Get Orders and Manage Them
 
-# C. Users Can Can
+### C. Users Can Can
 
 1.Add to Cart
 
@@ -44,7 +44,7 @@ In summary, the Multi-Vendor E-commerce Website Project using Python Django Fram
 3.While Checkout, User should give the address to deliver
 
 # How to Install and Run this project?
-Pre-Requisites:
+### Pre-Requisites:
 Install Git Version Control [ https://git-scm.com/ ]
 
 Install Python Latest Version [ https://www.python.org/downloads/ ]
@@ -55,7 +55,7 @@ Install XAMPP Server[ https://www.apachefriends.org/download.html ]
 
 Alternative to Pip is Homebrew
 
-Installation
+### Installation
 1. Create a Folder where you want to save the project
 
 2. Create a Virtual Environment and Activate
